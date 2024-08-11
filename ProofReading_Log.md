@@ -1,8 +1,8 @@
 # Proofreading Report
 
 ## Book Title: _C Ninja, In Pyjama_
-## Author: _Piyush Itankar_
-## Date: _11th August 2024_
+### Author: _Piyush Itankar_
+### Date: _11th August 2024_
 
 ## Error Categories
 - **Typo**: Spelling mistakes, repeated words, etc.
