@@ -257,22 +257,26 @@
   - **Typo**: .Their journies 
   - **Suggested Correction**: Their journeys
   - **Comment**: Spelling mistake
-  ---
+- [ ] Addressed   
+---
 ### [Embedded C doesn't exist!](#embedded-c-doesnt-exist)
   - **Page Number**: Unknown
     - **Typo**: seemed to have accidently
     - **Suggested Correction**: accidentally
     - **Comment**: Spelling mistake
+  - [ ] Addressed 
   ---
   - **Page Number**: Unknown
     - **Typo**: seemed to have accidently
     - **Suggested Correction**: accidentally
     - **Comment**: Spelling mistake
+  - [ ] Addressed   
   ---
   - **Page Number**: Unknown
     - **Typo**: as appiled
     - **Suggested Correction**: as applied
     - **Comment**: Spelling Mistake
+  - [ ] Addressed   
   ---
 
 ### [Who this is for?](#who-this-is-for)
@@ -280,6 +284,7 @@
     - **Typo**: targeted for begineers
     - **Suggested Correction**: beginners
     - **Comment**: Spelling Mistake
+  - [ ] Addressed 
   ---
 
   - **Suggestion**: I would use bullet points here instead of listing down the target audience in a paragraph
@@ -290,6 +295,7 @@
     - **Typo**: necessarily invtest
     - **Suggested Correction**: invest
     - **Comment**: Spelling Mistake
+  - [ ] Addressed 
   ---
 
 ### [Why RISC-V architecture?](#why-risc-v-architecture)
@@ -297,16 +303,20 @@
     - **Typo**: will have a great futher
     - **Suggested Correction**: great future
     - **Comment**: Spelling Mistake
+  - [ ] Addressed 
   ---
   - **Page Number**: Unknown
     - **Typo**: are adopting for there own courses
     - **Suggested Correction**: their own courses
     - **Comment**: There, their error
+  - [ ] Addressed 
   ---
+
   - **Page Number**: Unknown
     - **Typo**: as a self exploration
     - **Suggested Correction**: as self-exploration
     - **Comment**: Grammar
+  - [ ] Addressed 
   ---
 
 ### [Community and resources](#community-and-resources)
@@ -314,11 +324,13 @@
     - **Typo**: There also various
     - **Suggested Correction**: There are also various
     - **Comment**: Probably meant to type this in but didn't
+  - [ ] Addressed 
   ---
   - **Page Number**: Unknown
     - **Typo**: 
     - **Suggested Correction**:
     - **Comment**: Spelling Mistake
+  - [ ] Addressed 
   ---
 
 ### [Meet the Crew](#meet-the-crew)
@@ -330,23 +342,76 @@
     - **Typo**: Providing feeback
     - **Suggested Correction**: Providing Feedback
     - **Comment**: This was just funny lol
+  - [ ] Addressed 
   ---
 
 
 
 
 ## Mental Models
+- [C: History and Relevance](#c-history-and-relevance)
+    - [Origins of C](#origins-of-c)
+    - [Influence](#influence)
+    - [Relevance](#relevance)
+    - [Computers in 1970s](#computers-in-1970s)
+  - [Computer System Model](#computer-system-model)
+    - [Load-Store model](#load-store-model)
+    - [Storage, Data and Instructions](#storage-data-and-instructions)
+    - [Instructions](#instructions)
+    - [Summary](#summary)
 
 ### [C: History and Relevance](#c-history-and-relevance)
   - **Page Number**: 5
     - **Typo**: 
     - **Suggested Correction**: 
     - **Comment**: 
+  - [ ] Addressed  
   ---
 
   - **Page Number**: 5
     - **Suggestion**: Note 3 seems to informal. Maybe something like, "While it is possible for some applications to run code written in C++, the vast majority (around 99%) of such applications execute code written in C.
-    ---
+  - [ ] Addressed   
+  ---
+   
+### [Relevance](#relevance)
+  - **Page Number**: 6
+    - **Typo**: Relevence
+    - **Suggested Correction**: Relevance
+    - **Comment**: The spelling in the heading is incorrect
+  - [ ] Addressed
+  ---
+  
+### [Computer System Model](#computer-system-model)
+  - **Page Number**: 8
+    - **Typo**: your fame of reference
+    - **Suggested Correction**: frame of reference
+    - **Comment**: Spelling Mistake
+  - [ ] Addressed
+  --- 
+
+### [Load-Store model](#load-store-model)
+  - **Page Number**: 9
+    - **Typo**: 
+    - **Suggested Correction**: 
+    - **Comment**: 
+  - [ ] Addressed  
+  ---
+### [Storage, Data and Instructions](#storage-data-and-instructions)
+  - **Page Number**: 10
+    - **Typo**: stored at saperate address ranges
+    - **Suggested Correction**: separate
+    - **Comment**: Spelling Mistake
+  - [ ] Addressed  
+  ---
+
+  - **Page Number**: 10
+    - **Suggestion**: It would be helpful to have a flowchart or diagram to explain the Load and Store instructions model. Show not tell when the target audience is primarily UG students(?). This was a major gripe I had with Microprocessor courses taught in UG. Even though the course book had extensive text explaining every interaction that the professor covered as well. It still took a Youtube video to clear things up.
+  - **Feedback**: Love the Colour Palette of the figures btw!! I see that the Google UI has rubbed off :3
+  ---
+  
+
+
+
 
 
 ## Overall Feedback
